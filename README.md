@@ -44,7 +44,7 @@
 
 ## EDUCATION
 ### Data Analysis Professional Nanodegree Program
-[certificate](confirm.udacity.com/JNA74KND)
+[certificate](https://graduation.udacity.com/confirm/JNA74KND)
 <br>
 Received a Professional Data analysis scholarship from MCIT & Udacity in which I learnt Excel, Python, SQL, probability & statistics
 ### BCS
