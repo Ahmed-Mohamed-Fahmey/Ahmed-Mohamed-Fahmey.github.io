@@ -21,11 +21,13 @@
 
 ### Exploring Music Store database Music-Store
 -	Used SQL and relational database concepts to explore and query Music-store-database and answer questions about the data.
-![shopping](/assets/img/![shopping](/assets/img/shopping-5217035_1280.png)
-.png)
+![music-store](/assets/img/radio-cassette-3634616_1280.jpg)
 
 ### Analyze Divvy BikeShare System
--
+- Explored data related to Bike share systems for 3 major cities of the United States: Chicago, New York City, and Washington.
+- An Interactive environment is Constructed where a user chooses the City and a filter for dataset to analyze.
+- Python script is Used to accept and validate user inputs and calculate different statistics about the dataset.
+![bikeshare](/assets/img/bikeshare.jpg)
 
 ### Education
 - Data Analysis Professional Nanodegree Program
