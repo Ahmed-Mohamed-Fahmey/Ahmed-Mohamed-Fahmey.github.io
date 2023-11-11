@@ -17,7 +17,7 @@
 
 ### Investigating The Movie Database (TMDB) Investigate-TMDB
 -	Explored data of thousands of movies With the help of python libraries to qualify, analyze, and visualize the data. Then gave a report communicating the findings of the analysis.
-![tmdb](/assets/img/tmdb.png)
+![tmdb](/assets/img/tmdb.jpg)
 
 ### Exploring Music Store database Music-Store
 -	Used SQL and relational database concepts to explore and query Music-store-database and answer questions about the data.
