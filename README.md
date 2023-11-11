@@ -16,14 +16,20 @@
 -	Provided a statistical and practical evidence to favor the option of keeping the old webpage.
 ![shopping](/assets/img/shopping-5217035_1280.png)
 <br>
+<br>
+
 ### Investigating The Movie Database (TMDB) Investigate-TMDB
 -	Explored data of thousands of movies With the help of python libraries to qualify, analyze, and visualize the data. Then gave a report communicating the findings of the analysis.
 ![tmdb](/assets/img/tmdb.jpg)
 <br>
+<br>
+
 ### Exploring Music Store database Music-Store
 -	Used SQL and relational database concepts to explore and query Music-store-database and answer questions about the data.
 ![music-store](/assets/img/radio-cassette-3634616_1280.jpg)
 <br>
+<br>
+
 ### Analyze Divvy BikeShare System
 - Explored data related to Bike share systems for 3 major cities of the United States: Chicago, New York City, and Washington.
 - An Interactive environment is Constructed where a user chooses the City and a filter for dataset to analyze.
